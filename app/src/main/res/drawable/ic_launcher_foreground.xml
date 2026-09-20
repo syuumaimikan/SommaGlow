@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Crescent Moon (Sleep) -->
+    <path
+        android:fillColor="#00B4D8"
+        android:pathData="M52,30 C38.7,30 28,40.7 28,54 C28,67.3 38.7,78 52,78 C59.8,78 66.7,74.3 71.1,68.6 C58.2,68.2 47.8,57.8 47.8,45 C47.8,38.8 50.3,33.1 54.3,29 C53.5,29 52.8,30 52,30 Z" />
+
+    <!-- Radiant Skin Glow & Morning Sunburst (Skin & Wellness) -->
+    <path
+        android:fillColor="#FF8A80"
+        android:pathData="M68,36 C68,43.2 62.2,49 55,49 C57.8,42 62,37.8 68,36 Z" />
+
+    <!-- Radiant 4-point Sparkle (Glow) -->
+    <path
+        android:fillColor="#80E5FF"
+        android:pathData="M70,42 L72,48 L78,50 L72,52 L70,58 L68,52 L62,50 L68,48 Z" />
+
+    <!-- Smaller Micro Sparkle -->
+    <path
+        android:fillColor="#FFCC80"
+        android:pathData="M58,62 L59.5,65.5 L63,67 L59.5,68.5 L58,72 L56.5,68.5 L53,67 L56.5,65.5 Z" />
+</vector>

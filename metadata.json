@@ -1,0 +1,6 @@
+{
+  "name": "SomnaGlow",
+  "description": "完全自動の睡眠トラッキングと毎朝のオンデバイス肌分析・AI相関インサイトを提供する次世代ヘルスケアアプリ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
